@@ -4,6 +4,11 @@ lineate
 Prints objects in object illiteral form
 
 
+Get it:
+```
+npm install lineate
+```
+
 
 Usage:
 
