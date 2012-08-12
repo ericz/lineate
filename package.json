@@ -1,6 +1,6 @@
 {
   "name": "lineate",
-  "version": "9000.0.0",
+  "version": "9000.0.1",
   "description": "Prints objects in object illiteral form",
   "main": "lib/lineate.js",
   "repository": {
