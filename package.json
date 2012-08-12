@@ -1,0 +1,15 @@
+{
+  "name": "lineate",
+  "version": "0.0.0",
+  "description": "Prints objects in object illiteral form",
+  "main": "lib/lineate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericz/lineate.git"
+  },
+  "license": "MIT",
+  "author": "Eric Zhang"
+}
