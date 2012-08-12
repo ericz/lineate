@@ -87,3 +87,8 @@ root.topping[6].id = "5004"
 root.topping[6].type = "Maple"
 
 ```
+
+`lineate(...)` can also take multiple arguments. It will lineate all of them, seperated by newline!
+
+
+Happy hacking.
