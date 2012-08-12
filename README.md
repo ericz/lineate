@@ -3,6 +3,8 @@ lineate
 
 Prints objects in object illiteral form
 
+![](http://i.imgur.com/aEX9b.jpg)
+
 
 Get it:
 ```
